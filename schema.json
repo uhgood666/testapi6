@@ -1,5 +1,5 @@
 {
-  "$id": "https://github.com/doanthuanthanh88/testapi6/blob/main/schema.json",
+  "$id": "https://json.schemastore.org/pubspec",
   "$schema": "http://json-schema.org/draft-07/schema",
   "anyOf": [
     {
